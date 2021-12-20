@@ -18,4 +18,5 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                 | [x]    | Dec. 15, 2021 |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)             | [x]    | Dec. 16, 2021 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                             | [x]    | Dec. 13, 2021 |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                     | [x]    | Dec. 17, 2021 |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                     | [x]    | Dec. 14, 2021 |
