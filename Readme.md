@@ -16,6 +16,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                         | [x]    | Dec. 14, 2021 |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | [x]    | Dec. 15, 2021 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                     | [x]    | Dec. 14, 2021 |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [x]    | Jan. 4, 2022  |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | [x]    | Dec. 13, 2021 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [x]    | Dec. 15, 2021 |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                   | [x]    | Dec. 16, 2021 |
